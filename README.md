@@ -22,7 +22,7 @@ The tutorial on Wikibooks is under a CC-BY-SA license as required by Wikibooks, 
 
 The tutorial’s Wikibook which was completely created during this project can be found here: https://en.wikibooks.org/wiki/OpenSCAD_Tutorial
 
-The accompanying OpenSCAD script files of the examples and solutions can be found here: https://github.com/openscad/documentation/tree/master/OpenSCAD_Tutorial/Tutorial_Files
+The accompanying OpenSCAD script files of the examples and solutions can be found here: https://github.com/openscad/documentation/tree/gsod-2019/OpenSCAD_Tutorial/Tutorial_Files
 
 Each separate chapter of the tutorial’s Wikibook downloaded as a pdf file can be found here: 
 https://github.com/s-themis/Google-Season-of-Docs-2019-Project-Report/tree/master/Downloaded_Tutorial
