@@ -4,6 +4,8 @@
 
 ## Project: Create an OpenSCAD Tutorial
 
+![](/Report_Assets/racing_car_with_spoiler.jpg)
+
 ### Work done
 
 Although OpenSCAD has sufficient and detailed documentation it was lacking a structured tutorial aimed at potential users with little to no programming or CAD knowledge. Potential users who fall under this category had reported that the program was inaccessible to them.
