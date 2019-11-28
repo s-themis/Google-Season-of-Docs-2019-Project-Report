@@ -27,6 +27,8 @@ The accompanying OpenSCAD script files of the examples and solutions can be foun
 Each separate chapter of the tutorial’s Wikibook downloaded as a pdf file can be found here: 
 https://github.com/s-themis/Google-Season-of-Docs-2019-Project-Report/tree/master/Downloaded_Tutorial
 
+The pdf files are added to capture the state of the created tutorial in an easily accessible place as of the completion of this project.
+
 ### Current state of the project
 
 At its current state this project is a complete tutorial that has been upload to Wikibooks, while all accompanying files are available at GitHub. The tutorial currently covers a large portion of OpenSCAD’s syntax and features which can be used to create arbitrarily complex models. 
