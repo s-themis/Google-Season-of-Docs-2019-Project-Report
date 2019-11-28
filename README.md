@@ -24,16 +24,16 @@ The tutorial’s Wikibook which was completely created during this project can b
 
 Each separate chapter of the tutorial’s Wikibook downloaded as a pdf file can be found [here.](https://github.com/s-themis/Google-Season-of-Docs-2019-Project-Report/tree/master/Downloaded_Tutorial) The pdf files were added to capture the state of the created tutorial in an easily accessible place as of the completion of this project. Alternatively, that state of the tutorial on Wikibooks is also available through the revision history in the following links.
 
-*[Root page](https://en.wikibooks.org/w/index.php?title=OpenSCAD_Tutorial&oldid=3606168)
-*[Chapter 1](https://en.wikibooks.org/w/index.php?title=OpenSCAD_Tutorial/Chapter_1&oldid=3602948)
-*[Chapter 2](https://en.wikibooks.org/w/index.php?title=OpenSCAD_Tutorial/Chapter_2&oldid=3602970)
-*[Chapter 3](https://en.wikibooks.org/w/index.php?title=OpenSCAD_Tutorial/Chapter_3&oldid=3602981)
-*[Chapter 4](https://en.wikibooks.org/w/index.php?title=OpenSCAD_Tutorial/Chapter_4&oldid=3603011)
-*[Chapter 5](https://en.wikibooks.org/w/index.php?title=OpenSCAD_Tutorial/Chapter_5&oldid=3603034)
-*[Chapter 6](https://en.wikibooks.org/w/index.php?title=OpenSCAD_Tutorial/Chapter_6&oldid=3603104)
-*[Chapter 7](https://en.wikibooks.org/w/index.php?title=OpenSCAD_Tutorial/Chapter_7&oldid=3603112)
-*[Chapter 8](https://en.wikibooks.org/w/index.php?title=OpenSCAD_Tutorial/Chapter_8&oldid=3603120)
-*[Chapter 9](https://en.wikibooks.org/w/index.php?title=OpenSCAD_Tutorial/Chapter_9&oldid=3603133)
+* [Root page](https://en.wikibooks.org/w/index.php?title=OpenSCAD_Tutorial&oldid=3606168)
+* [Chapter 1](https://en.wikibooks.org/w/index.php?title=OpenSCAD_Tutorial/Chapter_1&oldid=3602948)
+* [Chapter 2](https://en.wikibooks.org/w/index.php?title=OpenSCAD_Tutorial/Chapter_2&oldid=3602970)
+* [Chapter 3](https://en.wikibooks.org/w/index.php?title=OpenSCAD_Tutorial/Chapter_3&oldid=3602981)
+* [Chapter 4](https://en.wikibooks.org/w/index.php?title=OpenSCAD_Tutorial/Chapter_4&oldid=3603011)
+* [Chapter 5](https://en.wikibooks.org/w/index.php?title=OpenSCAD_Tutorial/Chapter_5&oldid=3603034)
+* [Chapter 6](https://en.wikibooks.org/w/index.php?title=OpenSCAD_Tutorial/Chapter_6&oldid=3603104)
+* [Chapter 7](https://en.wikibooks.org/w/index.php?title=OpenSCAD_Tutorial/Chapter_7&oldid=3603112)
+* [Chapter 8](https://en.wikibooks.org/w/index.php?title=OpenSCAD_Tutorial/Chapter_8&oldid=3603120)
+* [Chapter 9](https://en.wikibooks.org/w/index.php?title=OpenSCAD_Tutorial/Chapter_9&oldid=3603133)
 
 The accompanying OpenSCAD script files of the examples and solutions can be found [here.](https://github.com/openscad/documentation/tree/gsod-2019/OpenSCAD_Tutorial/Tutorial_Files) The linked branch corresponds to the final [commit.](https://github.com/openscad/documentation/commit/5d5097ff8bb0560337a318e6ba665c1d11e5e96a)
 
