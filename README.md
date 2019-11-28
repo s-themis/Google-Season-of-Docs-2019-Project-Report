@@ -8,7 +8,7 @@
 
 ### Work done
 
-Although OpenSCAD has sufficient and detailed documentation it was lacking a structured tutorial aimed at potential users with little to no programming or CAD knowledge. Potential users who fall under this category had reported that the program was inaccessible to them.
+Although OpenSCAD has sufficient and detailed documentation it was lacking a structured tutorial aimed at potential users with little to no programming or CAD knowledge. Potential users who fall under this category had reported that the software was inaccessible to them.
 
 The contribution of this project is the development of a structured tutorial consisted of step by step examples and exercises designed to quickly ease new users into OpenSCAD’s scripting language and available features. The topics of the tutorial are arranged in way that allows users to get started with creating their own models straight away and to increase the number of tools available at their disposal as they move on to more advanced topics.
 
@@ -24,7 +24,8 @@ The tutorial’s Wikibook which was completely created during this project can b
 
 The accompanying OpenSCAD script files of the examples and solutions can be found here: https://github.com/openscad/documentation/tree/master/OpenSCAD_Tutorial/Tutorial_Files
 
-Each separate chapter of the tutorial’s Wikibook downloaded as a pdf file can be found here: #add_link_to_github_repo
+Each separate chapter of the tutorial’s Wikibook downloaded as a pdf file can be found here: 
+https://github.com/s-themis/Google-Season-of-Docs-2019-Project-Report/tree/master/Downloaded_Tutorial
 
 ### Current state of the project
 
